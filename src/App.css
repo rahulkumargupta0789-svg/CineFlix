@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+body {
+  background: #141414;
+  color: white;
+  font-family: Arial,sans-serif;
+}
+.welcome {
+  padding: 120px 50px;
+
+}
+.welcome h1 {
+  font-size: 40px;
+  margin-bottom: 15px;
+}
+#root{
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
