@@ -1,20 +1,41 @@
-<<<<<<< HEAD
-# React + Vite
+**CineFlix**
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+your Ultimate Movie & Web Series Browsing Experience
 
-Currently, two official plugins are available:
+cineflix ia a Netflix-inspired Movie and web series browsing application built using Reacy.js . it features a modern dark-themed interface whewe users can explore popular series watch trailer preview search for titles and save their favourites to a personal watchlist.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**features**
+intractive Hero Section
+Movie & series Collection
+Trailer Preview
+Search Functionality
+My List
+LocalStorage
+Hover Effects
 
-## React Compiler
+**Tech stack**
+React.js,javascript,HTML,CSS,Youtube Embed
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**getting started**
 
-## Expanding the Oxlint configuration
+repo link: it clone https://github.com/rahulkumargupta0789-svg/CineFlix.git
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
-=======
-# CineFlix
->>>>>>> 19c5bbcc18946bd675ebcedd1b2fc5ce6099c9a9
+**naviagte to the project **
+
+cd Cineflix
+
+**install dependencies**
+npm Install
+
+**start the development server**
+npm run dev
+
+
+github repo link: https://github.com/rahulkumargupta0789-svg/CineFlix.git
+
+webpage link: https://cine-flix-amber.vercel.app/
+
+
+
+
+
